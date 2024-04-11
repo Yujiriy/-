@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\4 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1533BC-37A9-463B-ACB5-13814FA2642E}|WindowsFormsApp1.csproj|C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\4 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1533BC-37A9-463B-ACB5-13814FA2642E}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1533BC-37A9-463B-ACB5-13814FA2642E}|WindowsFormsApp1.csproj|c:\\users\\bobri\\desktop\\\u043A\u043F\u0438\u044F\u043F \u044E\u0440\u0438\u0439\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\4 \u0434\u0435\u043D\u044C\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED1533BC-37A9-463B-ACB5-13814FA2642E}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 280,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\4 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\4 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T05:22:58.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\4 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\4 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T05:22:01.249Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
