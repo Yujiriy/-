@@ -1,0 +1,10 @@
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\8 день\Poimorfizm\bin\Debug\Poimorfizm.exe.config
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\8 день\Poimorfizm\bin\Debug\Poimorfizm.exe
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\8 день\Poimorfizm\bin\Debug\Poimorfizm.pdb
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\8 день\Poimorfizm\obj\Debug\Poimorfizm.csproj.AssemblyReference.cache
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\8 день\Poimorfizm\obj\Debug\Poimorfizm.Form1.resources
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\8 день\Poimorfizm\obj\Debug\Poimorfizm.Properties.Resources.resources
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\8 день\Poimorfizm\obj\Debug\Poimorfizm.csproj.GenerateResource.cache
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\8 день\Poimorfizm\obj\Debug\Poimorfizm.csproj.CoreCompileInputs.cache
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\8 день\Poimorfizm\obj\Debug\Poimorfizm.exe
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\8 день\Poimorfizm\obj\Debug\Poimorfizm.pdb
