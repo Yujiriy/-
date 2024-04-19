@@ -8,13 +8,13 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public class ArrayProcessor
+    public class ArrayProcessor<T>
     {
-        public int[] array;
+        public T[] array;
 
         public ArrayProcessor(int size)
         {
-            array = new int[size];
+            array = new T[size];
             FillArrayWithNaturalNumbers();
         }
 
@@ -27,13 +27,13 @@ namespace WindowsFormsApp1
             int sum = 0;
             for (int i = maxIndex + 1; i < array.Length; i++)
             {
-                sum += Math.Abs(array[i]);
+                sum += Math.Abs(Convert.ToInt32(array[i]));
             }
 
             return sum;
         }
 
-        public int[] GetArray()
+        public T[] GetArray()
         {
             return array;
         }
@@ -47,14 +47,11 @@ namespace WindowsFormsApp1
                 try
                 {
                     string[] lines = File.ReadAllLines(openFileDialog.FileName);
-                    int[] numbers = lines.SelectMany(line => line.Split(';'))
-                                         .Select(str => int.Parse(str))
+                    T[] numbers = lines.SelectMany(line => line.Split(';'))
+                                         .Select(str => (T)Convert.ChangeType(str, typeof(T)))
                                          .ToArray();
 
-                   
-                    
-                        Array.Resize(ref array, numbers.Length);
-                    
+                    Array.Resize(ref array, numbers.Length);
 
                     Array.Copy(numbers, array, numbers.Length);
                 }
@@ -69,18 +66,18 @@ namespace WindowsFormsApp1
         {
             for (int i = 0; i < array.Length; i++)
             {
-                array[i] = i + 1;
+                array[i] = (T)Convert.ChangeType(i + 1, typeof(T));
             }
         }
 
         private int GetMaxAbsoluteValueIndex()
         {
             int maxIndex = 0;
-            int maxAbsValue = Math.Abs(array[0]);
+            int maxAbsValue = Math.Abs(Convert.ToInt32(array[0]));
 
             for (int i = 1; i < array.Length; i++)
             {
-                int absValue = Math.Abs(array[i]);
+                int absValue = Math.Abs(Convert.ToInt32(array[i]));
                 if (absValue > maxAbsValue)
                 {
                     maxAbsValue = absValue;
