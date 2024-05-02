@@ -3,44 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|c:\\users\\bobri\\desktop\\\u043A\u043F\u0438\u044F\u043F \u044E\u0440\u0438\u0439\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\windowsformsapp1\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|c:\\users\\bobri\\desktop\\\u043A\u043F\u0438\u044F\u043F \u044E\u0440\u0438\u0439\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\windowsformsapp1\\reflectorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|solutionrelative:reflectorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|c:\\users\\bobri\\desktop\\\u043A\u043F\u0438\u044F\u043F \u044E\u0440\u0438\u0439\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\windowsformsapp1\\reflectorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|solutionrelative:reflectorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|c:\\users\\bobri\\desktop\\\u043A\u043F\u0438\u044F\u043F \u044E\u0440\u0438\u0439\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\windowsformsapp1\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\classes\\distanceexamentaor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|solutionrelative:classes\\distanceexamentaor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\entercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|solutionrelative:entercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\entercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|solutionrelative:entercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|c:\\users\\bobri\\desktop\\\u043A\u043F\u0438\u044F\u043F \u044E\u0440\u0438\u0439\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\windowsformsapp1\\createtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|solutionrelative:createtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|c:\\users\\bobri\\desktop\\\u043A\u043F\u0438\u044F\u043F \u044E\u0440\u0438\u0439\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\windowsformsapp1\\classes\\reflector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|solutionrelative:classes\\reflector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|c:\\users\\bobri\\desktop\\\u043A\u043F\u0438\u044F\u043F \u044E\u0440\u0438\u0439\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\windowsformsapp1\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|solutionrelative:classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|c:\\users\\bobri\\desktop\\\u043A\u043F\u0438\u044F\u043F \u044E\u0440\u0438\u0439\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\windowsformsapp1\\createtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|solutionrelative:createtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|c:\\users\\bobri\\desktop\\\u043A\u043F\u0438\u044F\u043F \u044E\u0440\u0438\u0439\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\windowsformsapp1\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|c:\\users\\bobri\\desktop\\\u043A\u043F\u0438\u044F\u043F \u044E\u0440\u0438\u0439\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\windowsformsapp1\\regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|solutionrelative:regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|c:\\users\\bobri\\desktop\\\u043A\u043F\u0438\u044F\u043F \u044E\u0440\u0438\u0439\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\windowsformsapp1\\regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|solutionrelative:regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|c:\\users\\bobri\\desktop\\\u043A\u043F\u0438\u044F\u043F \u044E\u0440\u0438\u0439\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1696DB35-C87D-48F9-99DB-331330FD8897}|WindowsFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,132 +38,95 @@
       "DocumentGroups": [
         {
           "DockedHeight": 280,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateTest.cs",
-              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\CreateTest.cs",
-              "RelativeDocumentMoniker": "CreateTest.cs",
-              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\CreateTest.cs",
-              "RelativeToolTip": "CreateTest.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwBMAAAAJAAAA",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Classes\\User.cs",
+              "RelativeDocumentMoniker": "Classes\\User.cs",
+              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Classes\\User.cs",
+              "RelativeToolTip": "Classes\\User.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T05:34:28.855Z",
+              "WhenOpened": "2024-05-02T07:25:04.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Test.cs",
               "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Test.cs",
               "RelativeDocumentMoniker": "Test.cs",
               "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Test.cs",
               "RelativeToolTip": "Test.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwB4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T05:33:41.453Z",
+              "WhenOpened": "2024-05-02T07:20:05.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Test.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Test.cs",
               "RelativeDocumentMoniker": "Test.cs",
               "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Test.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Test.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T05:33:25.845Z",
+              "WhenOpened": "2024-05-02T07:20:03.819Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DistanceExamentaor.cs",
-              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Classes\\DistanceExamentaor.cs",
-              "RelativeDocumentMoniker": "Classes\\DistanceExamentaor.cs",
-              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Classes\\DistanceExamentaor.cs",
-              "RelativeToolTip": "Classes\\DistanceExamentaor.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAUwDoAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "ReflectorForm.cs",
+              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\ReflectorForm.cs",
+              "RelativeDocumentMoniker": "ReflectorForm.cs",
+              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\ReflectorForm.cs",
+              "RelativeToolTip": "ReflectorForm.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA4wBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T08:28:35.864Z",
+              "WhenOpened": "2024-05-02T06:01:43.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Entercs.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Entercs.cs",
-              "RelativeDocumentMoniker": "Entercs.cs",
-              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Entercs.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "RelativeToolTip": "Entercs.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "DocumentIndex": 0,
+              "Title": "ReflectorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\ReflectorForm.cs",
+              "RelativeDocumentMoniker": "ReflectorForm.cs",
+              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\ReflectorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ReflectorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T09:31:48.152Z",
+              "WhenOpened": "2024-05-02T05:50:24.961Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Entercs.cs",
-              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Entercs.cs",
-              "RelativeDocumentMoniker": "Entercs.cs",
-              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Entercs.cs*",
-              "RelativeToolTip": "Entercs.cs*",
-              "ViewState": "AQIAADkAAAAAAAAAAAAIwBUAAAAbAAAA",
+              "DocumentIndex": 3,
+              "Title": "reflector.cs",
+              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Classes\\reflector.cs",
+              "RelativeDocumentMoniker": "Classes\\reflector.cs",
+              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Classes\\reflector.cs",
+              "RelativeToolTip": "Classes\\reflector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T09:31:51.064Z",
+              "WhenOpened": "2024-05-02T05:31:57.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Classes\\User.cs",
-              "RelativeDocumentMoniker": "Classes\\User.cs",
-              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Classes\\User.cs",
-              "RelativeToolTip": "Classes\\User.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAQwCYAAAAfAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T08:16:18.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateTest.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\CreateTest.cs",
-              "RelativeDocumentMoniker": "CreateTest.cs",
-              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\CreateTest.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "CreateTest.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T05:34:26.714Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RegForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\RegForm.cs",
-              "RelativeDocumentMoniker": "RegForm.cs",
-              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\RegForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "RegForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T05:05:18.364Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RegForm.cs",
-              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\RegForm.cs",
-              "RelativeDocumentMoniker": "RegForm.cs",
-              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\18 \u0434\u0435\u043D\u044C\\WindowsFormsApp1\\RegForm.cs",
-              "RelativeToolTip": "RegForm.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAswFoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T05:05:21.052Z",
+              "WhenOpened": "2024-05-02T06:00:21.175Z",
               "EditorCaption": ""
             }
           ]

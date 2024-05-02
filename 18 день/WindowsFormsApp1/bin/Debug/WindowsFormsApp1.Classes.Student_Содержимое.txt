@@ -1,0 +1,20 @@
+Int32 get_questionCount()
+Void set_questionCount(Int32)
+Int32 get_rightAnswers()
+Void set_rightAnswers(Int32)
+Void GetAnswer(WindowsFormsApp1.Classes.Question, System.String)
+Void Clear()
+System.String get_name()
+System.String get_login()
+System.String get_password()
+Boolean Enter(System.String, System.String)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+Void .ctor(System.String, System.String, System.String)
+Int32 questionCount
+Int32 rightAnswers
+System.String name
+System.String login
+System.String password

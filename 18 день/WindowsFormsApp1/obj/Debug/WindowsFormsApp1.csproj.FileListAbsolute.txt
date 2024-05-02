@@ -32,3 +32,4 @@ C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\18 день\WindowsF
 C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\18 день\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
 C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\18 день\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateTest.resources
 C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\18 день\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Test.resources
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\18 день\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReflectorForm.resources
