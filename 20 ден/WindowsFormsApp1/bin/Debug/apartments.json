@@ -1,0 +1,36 @@
+[
+  {
+    "Area": 100.0,
+    "NumberOfRooms": 3,
+    "Options": [],
+    "YearBuilt": 2005,
+    "BuildingMaterial": "Brick",
+    "Floor": 5,
+    "Rooms": [
+      {
+        "Area": 2394.0,
+        "NumberOfWindows": 3,
+        "WindowOrientation": "North"
+      },
+      {
+        "Area": 2394.0,
+        "NumberOfWindows": 6,
+        "WindowOrientation": "South"
+      },
+      {
+        "Area": 2454.0,
+        "NumberOfWindows": 6,
+        "WindowOrientation": "East"
+      }
+    ],
+    "Address": {
+      "Country": "USA",
+      "City": "New York",
+      "District": "Manhattan",
+      "Street": "Broadway",
+      "Building": "123",
+      "Unit": "A",
+      "ApartmentNumber": "456"
+    }
+  }
+]
