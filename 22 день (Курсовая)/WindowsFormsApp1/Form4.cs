@@ -31,5 +31,23 @@ namespace WindowsFormsApp1
             this.positionsTableAdapter.Fill(this.employessDataSet.Positions);
 
         }
+
+        private void toolStripTextBox1_KeyUp(object sender, KeyEventArgs e)
+        {
+            string searchText = toolStripTextBox1.Text;
+
+            PerformSearch(searchText);
+        }
+        private void PerformSearch(string searchText)
+        {
+            // Очистка фильтра BindingSource
+            positionsBindingSource.Filter = "";
+
+            // Установка фильтра для отображения только соответствующих строк
+            positionsBindingSource.Filter = $"position_name LIKE '%{searchText}%'";
+
+            // Обновление отображаемых данных в DataGridView
+            positionsDataGridView.Refresh();
+        }
     }
 }

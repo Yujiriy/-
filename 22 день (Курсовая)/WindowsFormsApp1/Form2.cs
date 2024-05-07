@@ -28,6 +28,10 @@ namespace WindowsFormsApp1
 
         private void toolStripMenuItem1_Click(object sender, EventArgs e)
         {
+            ClearMenuButtonBackground();
+            // Установка цвета фона выбранной кнопки
+            toolStripMenuItem1.BackColor = SystemColors.InactiveCaption;
+
             form3.TopLevel = false;
             form3.FormBorderStyle = FormBorderStyle.None;
             form3.Dock = DockStyle.Fill;
@@ -38,6 +42,10 @@ namespace WindowsFormsApp1
 
         private void toolStripMenuItem2_Click(object sender, EventArgs e)
         {
+            ClearMenuButtonBackground();
+            // Установка цвета фона выбранной кнопки
+            toolStripMenuItem2.BackColor = SystemColors.InactiveCaption;
+
             form4.TopLevel = false;
             form4.FormBorderStyle = FormBorderStyle.None;
             form4.Dock = DockStyle.Fill;
@@ -48,6 +56,10 @@ namespace WindowsFormsApp1
 
         private void toolStripMenuItem3_Click(object sender, EventArgs e)
         {
+            ClearMenuButtonBackground();
+            // Установка цвета фона выбранной кнопки
+            toolStripMenuItem3.BackColor = SystemColors.InactiveCaption;
+
             form5.TopLevel = false;
             form5.FormBorderStyle = FormBorderStyle.None;
             form5.Dock = DockStyle.Fill;
@@ -58,6 +70,10 @@ namespace WindowsFormsApp1
 
         private void toolStripMenuItem4_Click(object sender, EventArgs e)
         {
+            ClearMenuButtonBackground();
+            // Установка цвета фона выбранной кнопки
+            toolStripMenuItem4.BackColor = SystemColors.InactiveCaption;
+
             form6.TopLevel = false;
             form6.FormBorderStyle = FormBorderStyle.None;
             form6.Dock = DockStyle.Fill;
@@ -69,6 +85,14 @@ namespace WindowsFormsApp1
         private void Form2_FormClosed(object sender, FormClosedEventArgs e)
         {
             Application.Exit();
+        }
+
+        private void ClearMenuButtonBackground()
+        {
+            toolStripMenuItem1.BackColor = SystemColors.Control;
+            toolStripMenuItem2.BackColor = SystemColors.Control;
+            toolStripMenuItem3.BackColor = SystemColors.Control;
+            toolStripMenuItem4.BackColor = SystemColors.Control;
         }
     }
 }

@@ -31,5 +31,24 @@ namespace WindowsFormsApp1
             this.departmentsTableAdapter.Fill(this.employessDataSet.Departments);
 
         }
+
+        private void toolStripTextBox1_KeyUp(object sender, KeyEventArgs e)
+        {
+            string searchText = toolStripTextBox1.Text;
+
+            PerformSearch(searchText);
+        }
+
+        private void PerformSearch(string searchText)
+        {
+            // Очистка фильтра BindingSource
+            departmentsBindingSource.Filter = "";
+
+            // Установка фильтра для отображения только соответствующих строк
+            departmentsBindingSource.Filter = $"department_name LIKE '%{searchText}%' OR location LIKE '%{searchText}%'";
+
+            // Обновление отображаемых данных в DataGridView
+            departmentsDataGridView.Refresh();
+        }
     }
 }
