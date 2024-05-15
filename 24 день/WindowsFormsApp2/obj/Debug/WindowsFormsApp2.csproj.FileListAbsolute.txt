@@ -1,0 +1,16 @@
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\24 день\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\24 день\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\24 день\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\24 день\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\24 день\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\24 день\WindowsFormsApp2\bin\Debug\students.mdf
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\24 день\WindowsFormsApp2\bin\Debug\students_log.ldf
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\24 день\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\24 день\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\24 день\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\24 день\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\24 день\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\24 день\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Groups.resources
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\24 день\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Students.resources
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\24 день\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Grades.resources
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\24 день\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Speccs.resources

@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCD7A61-D5D2-4B30-9C45-2AF47E8A9E5D}|WindowsFormsApp2.csproj|C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCD7A61-D5D2-4B30-9C45-2AF47E8A9E5D}|WindowsFormsApp2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCD7A61-D5D2-4B30-9C45-2AF47E8A9E5D}|WindowsFormsApp2.csproj|C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCD7A61-D5D2-4B30-9C45-2AF47E8A9E5D}|WindowsFormsApp2.csproj|solutionrelative:students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCD7A61-D5D2-4B30-9C45-2AF47E8A9E5D}|WindowsFormsApp2.csproj|c:\\users\\bobri\\desktop\\\u043A\u043F\u0438\u044F\u043F \u044E\u0440\u0438\u0439\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\windowsformsapp2\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCD7A61-D5D2-4B30-9C45-2AF47E8A9E5D}|WindowsFormsApp2.csproj|solutionrelative:grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCD7A61-D5D2-4B30-9C45-2AF47E8A9E5D}|WindowsFormsApp2.csproj|C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFCD7A61-D5D2-4B30-9C45-2AF47E8A9E5D}|WindowsFormsApp2.csproj|solutionrelative:students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCD7A61-D5D2-4B30-9C45-2AF47E8A9E5D}|WindowsFormsApp2.csproj|C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\speccs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFCD7A61-D5D2-4B30-9C45-2AF47E8A9E5D}|WindowsFormsApp2.csproj|solutionrelative:speccs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCD7A61-D5D2-4B30-9C45-2AF47E8A9E5D}|WindowsFormsApp2.csproj|C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFCD7A61-D5D2-4B30-9C45-2AF47E8A9E5D}|WindowsFormsApp2.csproj|solutionrelative:grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCD7A61-D5D2-4B30-9C45-2AF47E8A9E5D}|WindowsFormsApp2.csproj|C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCD7A61-D5D2-4B30-9C45-2AF47E8A9E5D}|WindowsFormsApp2.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCD7A61-D5D2-4B30-9C45-2AF47E8A9E5D}|WindowsFormsApp2.csproj|C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFCD7A61-D5D2-4B30-9C45-2AF47E8A9E5D}|WindowsFormsApp2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCD7A61-D5D2-4B30-9C45-2AF47E8A9E5D}|WindowsFormsApp2.csproj|C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFCD7A61-D5D2-4B30-9C45-2AF47E8A9E5D}|WindowsFormsApp2.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 280,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grades.cs",
+              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\Grades.cs",
+              "RelativeDocumentMoniker": "Grades.cs",
+              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\Grades.cs",
+              "RelativeToolTip": "Grades.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:05:43.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\Students.cs",
+              "RelativeDocumentMoniker": "Students.cs",
+              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\Students.cs",
+              "RelativeToolTip": "Students.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:34:54.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:25:41.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Grades.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\Grades.cs",
+              "RelativeDocumentMoniker": "Grades.cs",
+              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\Grades.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Grades.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:02:00.854Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Speccs.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\Speccs.cs",
+              "RelativeDocumentMoniker": "Speccs.cs",
+              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\Speccs.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Speccs.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:00:19.765Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Students.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\Students.cs",
+              "RelativeDocumentMoniker": "Students.cs",
+              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\Students.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Students.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:54:45.684Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:40:53.661Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAcwGcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:25:54.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\bobri\\Desktop\\\u041A\u041F\u0418\u042F\u041F \u042E\u0440\u0438\u0439\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\24 \u0434\u0435\u043D\u044C\\WindowsFormsApp2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:10:29.29Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
