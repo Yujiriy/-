@@ -13,7 +13,7 @@ namespace WindowsFormsApp1
 {
     public partial class Form3 : Form
     {
-        SubjectDataAccess dataAccess = new SubjectDataAccess();
+        SubjectDataAccess dataAccess = new SubjectDataAccess("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\employess.mdf;Integrated Security=True;Connect Timeout=30");
         public Form3()
         {
             InitializeComponent();

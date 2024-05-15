@@ -16,6 +16,7 @@ namespace WindowsFormsApp1
         private Form form4;
         private Form form5;
         private Form form6;
+        private Form report;
         public Form2()
         {
             InitializeComponent();
@@ -24,7 +25,11 @@ namespace WindowsFormsApp1
             form4 = new Form4();
             form5 = new Form5();
             form6 = new Form6();
+            report = new report();
         }
+
+        // Инициализация форм и панелей
+        
 
         private void toolStripMenuItem1_Click(object sender, EventArgs e)
         {
@@ -93,6 +98,26 @@ namespace WindowsFormsApp1
             toolStripMenuItem2.BackColor = SystemColors.Control;
             toolStripMenuItem3.BackColor = SystemColors.Control;
             toolStripMenuItem4.BackColor = SystemColors.Control;
+            toolStripMenuItem5.BackColor = SystemColors.Control;
+        }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+
+        private void отчетToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ClearMenuButtonBackground();
+            // Установка цвета фона выбранной кнопки
+            toolStripMenuItem5.BackColor = SystemColors.InactiveCaption;
+
+            report.TopLevel = false;
+            report.FormBorderStyle = FormBorderStyle.None;
+            report.Dock = DockStyle.Fill;
+            panel1.Controls.Clear();
+            panel1.Controls.Add(report);
+            report.Show();
         }
     }
 }
