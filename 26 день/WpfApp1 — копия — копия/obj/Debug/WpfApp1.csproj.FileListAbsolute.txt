@@ -1,0 +1,66 @@
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\bin\Debug\students.mdf
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\bin\Debug\students_log.ldf
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\obj\Debug\App.g.cs
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\bin\Debug\students.mdf
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\bin\Debug\students_log.ldf
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\bin\Debug\WpfApp1.exe.config
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\bin\Debug\WpfApp1.exe
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\bin\Debug\WpfApp1.pdb
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\obj\Debug\MainWindow.g.cs
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\obj\Debug\App.g.cs
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\obj\Debug\MainWindow.baml
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\obj\Debug\WpfApp1.g.resources
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\obj\Debug\WpfApp1.exe
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия\obj\Debug\WpfApp1.pdb
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\bin\Debug\students.mdf
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\bin\Debug\students_log.ldf
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\bin\Debug\WpfApp1.exe.config
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\bin\Debug\WpfApp1.exe
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\bin\Debug\WpfApp1.pdb
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\obj\Debug\MainWindow.g.cs
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\obj\Debug\App.g.cs
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\obj\Debug\MainWindow.baml
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\obj\Debug\WpfApp1.g.resources
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\obj\Debug\WpfApp1.exe
+C:\Users\bobri\Desktop\КПИЯП Юрий\Практика\26 день\WpfApp1 — копия — копия\obj\Debug\WpfApp1.pdb
